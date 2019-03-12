@@ -65,3 +65,7 @@
 * [Mandatory Assignment: Required reading Exercise](https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/exercises/README.md)
 * [The Markdown syntax](other_materials/markdown.md)
 
+# test:
+ ## Required reading
+* kshfkjfkhskjdhdskjhjsfjdf
+
