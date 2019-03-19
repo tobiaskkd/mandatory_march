@@ -10,5 +10,13 @@
  ##['', ' Required reading', '* [8. Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)', '* [8.4. The try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)', '* [8.5. The with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)', '* [Exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)', '* [HOWTO Fetch Internet Resources Using The urllib Package](https://docs.python.org/3/howto/urllib2.html)', '* [os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)', '* [subprocess — Subprocess management](https://docs.python.org/3.7/library/subprocess.html#module-subprocess)', '* [urllib — URL handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)', '* [urllib.request — Extensible library for opening URLs](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)']
 # Lesson-06-Git-Markdown-and-Required-reading-Exercise:
  ##['', '', ' Required reading', '* [Mandatory Assignment: Required reading Exercise](https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/exercises/README.md)', '* [The Markdown syntax](other_materials/markdown.md)']
+# Lesson-09-Classes-OOP-Virtual-Environments-and-Packages:
+ ##['', '', ' Required reading', '* [12. Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html)', '* [9. Classes](https://docs.python.org/3/tutorial/classes.html)', '* [Installing Packages](https://packaging.python.org/tutorials/installing-packages/)', '* [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)', '* [Virtual Enviroment setup ](materials/virtual_enviroment_setup.md)', '* [object.__dict__](https://docs.python.org/3/library/stdtypes.html#object.__dict__)', '* [object.__repr__(self)](https://docs.python.org/3/reference/datamodel.html#object.__repr__)', '* [object.__str__(self)](https://docs.python.org/3/reference/datamodel.html#object.__str__)']
+# Lesson-10-Unit-Tests:
+ ##['', ' Required reading', '* [Getting Started With Testing in Python](https://realpython.com/python-testing/#testing-your-code)', '* [unittest](https://docs.python.org/3.7/library/unittest.html)']
+# Lesson-10-oop-ducktyping-decorators-abc:
+ ##['', '', ' Required reading', '* [The Ultimate Guide to Python Type Checking](https://realpython.com/python-type-checking/#duck-typing)']
+# Lesson-12-Searching-Sorting-Merging-Algorithms:
+ ##['', ' Required reading']
 # test:
  ##['', ' Required reading', '* kshfkjfkhskjdhdskjhjsfjdf']
